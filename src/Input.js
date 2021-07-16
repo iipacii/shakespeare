@@ -34,13 +34,12 @@ class Input extends React.Component {
     axios
       .request(options)
       .then((response) => {
-        console.log(response);
         this.setState({ translated: response.data.contents.translated });
       })
       .catch((error) => {
         console.error(error);
         this.setState({
-          translated: "ERROR: /nToo many requests. Try again some other time!",
+          translated: "ERROR: Too many requests. Try again some other time!",
         });
       });
   };
@@ -60,9 +59,6 @@ class Input extends React.Component {
               required
             ></textarea>
             <br />
-            {/* <a href="/" className="btn btn-dark my-2" style={{ margin: "4px" }}>
-            Translate!
-          </a> */}
 
             <button type="submit" className="btn btn-dark">
               Translate!

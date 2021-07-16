@@ -3,14 +3,7 @@ import HeaderBar from "./HeaderBar";
 
 function App() {
   return (
-    <div
-    // style={{
-    //   backgroundImage: `url(./Background.gif)`,
-    //   backgroundRepeat: "repeat",
-    //   backgroundSize: "100%",
-    //   backgroundPosition: "center",
-    // }}
-    >
+    <div>
       <HeaderBar />
       <Jumbotron />
     </div>
