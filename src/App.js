@@ -1,5 +1,5 @@
 import Jumbotron from "./Jumbotron";
-import Textreturn from "./Textreturn";
+import HeaderBar from "./HeaderBar";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
     //   backgroundPosition: "center",
     // }}
     >
-      <Textreturn />
+      <HeaderBar />
       <Jumbotron />
     </div>
   );
