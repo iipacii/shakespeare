@@ -7,7 +7,7 @@ const HeaderBar = () => {
           style={{ display: "flex", justifyContent: "center" }}
         >
           <a
-            href="https://github.com/iipacii"
+            href="https://github.com/iipacii/shakespeare"
             target="_blank"
             rel="noopener noreferrer"
           >
