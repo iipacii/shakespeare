@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/iipacii.github.io/shakespeare/static/js/main.f5e87df3.chunk.js",
-    "main.js.map": "/iipacii.github.io/shakespeare/static/js/main.f5e87df3.chunk.js.map",
-    "runtime-main.js": "/iipacii.github.io/shakespeare/static/js/runtime-main.a1dcf02e.js",
-    "runtime-main.js.map": "/iipacii.github.io/shakespeare/static/js/runtime-main.a1dcf02e.js.map",
-    "static/js/2.5972113f.chunk.js": "/iipacii.github.io/shakespeare/static/js/2.5972113f.chunk.js",
-    "static/js/2.5972113f.chunk.js.map": "/iipacii.github.io/shakespeare/static/js/2.5972113f.chunk.js.map",
-    "index.html": "/iipacii.github.io/shakespeare/index.html",
-    "static/js/2.5972113f.chunk.js.LICENSE.txt": "/iipacii.github.io/shakespeare/static/js/2.5972113f.chunk.js.LICENSE.txt"
+    "main.js": "/shakespeare/static/js/main.f5e87df3.chunk.js",
+    "main.js.map": "/shakespeare/static/js/main.f5e87df3.chunk.js.map",
+    "runtime-main.js": "/shakespeare/static/js/runtime-main.16778445.js",
+    "runtime-main.js.map": "/shakespeare/static/js/runtime-main.16778445.js.map",
+    "static/js/2.5972113f.chunk.js": "/shakespeare/static/js/2.5972113f.chunk.js",
+    "static/js/2.5972113f.chunk.js.map": "/shakespeare/static/js/2.5972113f.chunk.js.map",
+    "index.html": "/shakespeare/index.html",
+    "static/js/2.5972113f.chunk.js.LICENSE.txt": "/shakespeare/static/js/2.5972113f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1dcf02e.js",
+    "static/js/runtime-main.16778445.js",
     "static/js/2.5972113f.chunk.js",
     "static/js/main.f5e87df3.chunk.js"
   ]
